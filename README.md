@@ -51,5 +51,5 @@ Designing computational tools for engineering problems • Translating physical 
 
 <p align="left">
 Telegram: <a href="https://t.me/exexluff">@exexluff</a>  
-Email: <a href="mailto:mslv@space">mslv@space</a>
+Email: <a href="mailto:hi@mslv.space">hi@mslv.space</a>
 </p>
