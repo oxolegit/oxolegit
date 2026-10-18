@@ -15,6 +15,7 @@ I work on thermal and nuclear power systems and write the software around them: 
 
 #### Projects
 
+**[bitmap](https://bitmap.mslv.space)** — generator of two-colour bitmap art: strange attractors, reaction–diffusion, flow fields, 13 dithering algorithms; PNG and SVG export<br/>
 **[Sigma](https://github.com/oxolegit/sigma)** — interactive courses in technical subjects: TeX theory, 2D/3D labs, step-by-step derivations<br/>
 **[teletools](https://github.com/oxolegit/teletools)** — Telegram bot that slices a PNG into a sticker or custom emoji pack, with background removal and an in-chat pack editor<br/>
 **[CAMPIX](https://campix.ru)** — internship platform for students in the Voronezh region `in progress`<br/>
